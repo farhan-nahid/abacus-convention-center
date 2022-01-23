@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,900&display=swap');
+
+.navbar {
+  padding: 20px 0;
+}
+
+.carousel__content {
+  h5 {
+    font-family: Poppins;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 58px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #fff;
+    max-width: 639px;
+    margin: 0 auto;
+  }
+  p {
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #fff;
+    max-width: 456px;
+    margin: 15px auto 25px auto;
+  }
+
+  button {
+    margin-bottom: 30px;
+  }
+}
